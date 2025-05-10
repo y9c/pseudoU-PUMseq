@@ -1,1 +1,1 @@
-# pseudoU-PUMseq
+# Ψ-PUMseq
